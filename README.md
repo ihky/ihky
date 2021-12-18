@@ -30,7 +30,10 @@
   
 <a href="https://twitter.com/itzihky">![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UCic4Y686b5TnTk-xs0mLSGg">![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<a href="https://discord.gg/eCcKpBcFcb">![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+
+<!--
+<a href="#">![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+-->
 
 #
   
